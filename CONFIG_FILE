@@ -1,0 +1,1 @@
+{"wifiCfg":{"SSID":"","Password":""},"datetime":{},"streamConfig":{"username":"user","password":"pass","uri":"rtsp://184.72.239.149/vod/mp4:BigBuckBunny_115k.mov"},"webhook":{"on_face_event":"http://{ip:port}/faceEvent","on_report_inflow":"http://{ip:port}/reportInflow","on_report_outflow":"http://{ip:port}/reportOutflow"}}
