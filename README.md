@@ -14,38 +14,33 @@ sudo npm install -g n
 sudo n stable
 ```
 
-## Node Package Installation
+- Node Package Installation
 
 ```
 npm install
 ```
 
-- View RTSP Stream with Web
+- Install FFMPEG
 
 ```
 sudo apt-get install ffmpeg
 ```
 
-visit http://localhost:8080/view-stream.html
 
 ## Start Node Server and fetch stream for display
+
+- Start Server, and fetch video stream
 
 ```
 ./node-start.sh
 ```
 
+- View the Sample Video
 
-## Test Your Node Server & Start Your Development
+visit http://localhost:8080/view-stream.html
 
-- Send test message to node
+- You can edit node-start.sh to change video stream URL
 
-```
-mosquitto_pub -h localhost -m "hello there" -t "ai-to-sys"
-```
-
-- Python client sample
-
-See /python-client-sample folder
 
 
 
