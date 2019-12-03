@@ -4,7 +4,7 @@
 git clone https://Ray@bitbucket.org/Ray/ai-node-front.git
 ```
 
-##Pre-requisites
+## Pre-requisites
 
 - Make sure your node is >10.0, or upgrade node
 
@@ -14,7 +14,7 @@ sudo npm install -g n
 sudo n stable
 ```
 
-##Node Package Installation##
+## Node Package Installation
 
 ```
 npm install
@@ -28,14 +28,14 @@ sudo apt-get install ffmpeg
 
 visit http://localhost:8080/view-stream.html
 
-##Start Node Server and fetch stream for display##
+## Start Node Server and fetch stream for display
 
 ```
 ./node-start.sh
 ```
 
 
-## Test Your Node Server & Start Your Development##
+## Test Your Node Server & Start Your Development
 
 - Send test message to node
 
