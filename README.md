@@ -1,9 +1,5 @@
 # rtsp-to-webviewer
 
-```
-git clone https://Ray@bitbucket.org/Ray/ai-node-front.git
-```
-
 rtsp-to-webviewer is a web server that displays a rtsp streaming video in a web page.
 
 ## Pre-requisites
