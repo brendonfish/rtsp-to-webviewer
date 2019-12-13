@@ -4,6 +4,8 @@
 git clone https://Ray@bitbucket.org/Ray/ai-node-front.git
 ```
 
+rtsp-to-webviewer is a web server that displays a rtsp streaming video in a web page.
+
 ## Pre-requisites
 
 - Make sure your node is >10.0, or upgrade node
